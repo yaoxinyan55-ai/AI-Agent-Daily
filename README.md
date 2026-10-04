@@ -17,6 +17,11 @@
 
 | 日期 | 关键词 |
 |------|--------|
+| [2026-10-07](daily/2026-10-07.md) | 微软 Agent 入门教程、AI Agents for Beginners |
+| [2026-10-06](daily/2026-10-06.md) | RAGFlow、RAG 与 Agent |
+| [2026-10-05](daily/2026-10-05.md) | mem0、Agent 长期记忆 |
+| [2026-10-04](daily/2026-10-04.md) | Cloudflare 安全审计 Skill、AI 编程 Agent |
+| [2026-10-03](daily/2026-10-03.md) | 阿里 AI 代码审查、open-code-review |
 | [2026-10-02](daily/2026-10-02.md) | OpenAI Dots发布、Personal Agent赛道、GitHub Daily |
 | [2026-10-01](daily/2026-10-01.md) | Grok Bot、xAI生态、Agent交互设计 |
 
